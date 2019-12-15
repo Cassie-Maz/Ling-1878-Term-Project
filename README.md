@@ -1,2 +1,7 @@
 # Ling-1878-Term-Project
-A pdf file of the field reports I created over the course of Fall 2017 at the University of Pittsburgh
+This repository contains a pdf file that combines all the field 
+reports 
+I created for Ling 1878, a graduate level phonetics and phonemics 
+course at the University of Pittsburgh. I learned core concepts by 
+interviewing a Polish speaker and identifying contrasting sounds in 
+their language. 
